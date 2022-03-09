@@ -1,0 +1,98 @@
+C:\Users\burka\source\repos\projeplatform\projeplatform\bin\Debug\projeplatform.exe.config
+C:\Users\burka\source\repos\projeplatform\projeplatform\bin\Debug\projeplatform.exe
+C:\Users\burka\source\repos\projeplatform\projeplatform\bin\Debug\projeplatform.pdb
+C:\Users\burka\source\repos\projeplatform\projeplatform\obj\Debug\projeplatform.csprojAssemblyReference.cache
+C:\Users\burka\source\repos\projeplatform\projeplatform\obj\Debug\projeplatform.Properties.Resources.resources
+C:\Users\burka\source\repos\projeplatform\projeplatform\obj\Debug\projeplatform.csproj.GenerateResource.cache
+C:\Users\burka\source\repos\projeplatform\projeplatform\obj\Debug\projeplatform.csproj.CoreCompileInputs.cache
+C:\Users\burka\source\repos\projeplatform\projeplatform\obj\Debug\projeplatform.exe
+C:\Users\burka\source\repos\projeplatform\projeplatform\obj\Debug\projeplatform.pdb
+C:\Users\burka\source\repos\projeplatform\projeplatform\obj\Debug\projeplatform.level1.resources
+C:\Users\burka\source\repos\projeplatform\projeplatform\obj\Debug\projeplatform.gamemenu.resources
+C:\Users\serha\Desktop\projeplatformm\projeplatform\projeplatform\bin\Debug\projeplatform.exe.config
+C:\Users\serha\Desktop\projeplatformm\projeplatform\projeplatform\bin\Debug\projeplatform.exe
+C:\Users\serha\Desktop\projeplatformm\projeplatform\projeplatform\bin\Debug\projeplatform.pdb
+C:\Users\serha\Desktop\projeplatformm\projeplatform\projeplatform\obj\Debug\projeplatform.csprojAssemblyReference.cache
+C:\Users\serha\Desktop\projeplatformm\projeplatform\projeplatform\obj\Debug\projeplatform.level1.resources
+C:\Users\serha\Desktop\projeplatformm\projeplatform\projeplatform\obj\Debug\projeplatform.gamemenu.resources
+C:\Users\serha\Desktop\projeplatformm\projeplatform\projeplatform\obj\Debug\projeplatform.Properties.Resources.resources
+C:\Users\serha\Desktop\projeplatformm\projeplatform\projeplatform\obj\Debug\projeplatform.csproj.GenerateResource.cache
+C:\Users\serha\Desktop\projeplatformm\projeplatform\projeplatform\obj\Debug\projeplatform.csproj.CoreCompileInputs.cache
+C:\Users\serha\Desktop\projeplatformm\projeplatform\projeplatform\obj\Debug\projeplatform.exe
+C:\Users\serha\Desktop\projeplatformm\projeplatform\projeplatform\obj\Debug\projeplatform.pdb
+C:\Users\burka\Desktop\C#\sağsolfizikproje\projeplatform\projeplatform\bin\Debug\projeplatform.exe.config
+C:\Users\burka\Desktop\C#\sağsolfizikproje\projeplatform\projeplatform\bin\Debug\projeplatform.exe
+C:\Users\burka\Desktop\C#\sağsolfizikproje\projeplatform\projeplatform\bin\Debug\projeplatform.pdb
+C:\Users\burka\Desktop\C#\sağsolfizikproje\projeplatform\projeplatform\obj\Debug\projeplatform.csprojAssemblyReference.cache
+C:\Users\burka\Desktop\C#\sağsolfizikproje\projeplatform\projeplatform\obj\Debug\projeplatform.level1.resources
+C:\Users\burka\Desktop\C#\sağsolfizikproje\projeplatform\projeplatform\obj\Debug\projeplatform.gamemenu.resources
+C:\Users\burka\Desktop\C#\sağsolfizikproje\projeplatform\projeplatform\obj\Debug\projeplatform.Properties.Resources.resources
+C:\Users\burka\Desktop\C#\sağsolfizikproje\projeplatform\projeplatform\obj\Debug\projeplatform.csproj.GenerateResource.cache
+C:\Users\burka\Desktop\C#\sağsolfizikproje\projeplatform\projeplatform\obj\Debug\projeplatform.csproj.CoreCompileInputs.cache
+C:\Users\burka\Desktop\C#\sağsolfizikproje\projeplatform\projeplatform\obj\Debug\projeplatform.exe
+C:\Users\burka\Desktop\C#\sağsolfizikproje\projeplatform\projeplatform\obj\Debug\projeplatform.pdb
+C:\Users\serha\Desktop\proje\sağsolfizikproje\projeplatform\projeplatform\bin\Debug\projeplatform.exe.config
+C:\Users\serha\Desktop\proje\sağsolfizikproje\projeplatform\projeplatform\bin\Debug\projeplatform.exe
+C:\Users\serha\Desktop\proje\sağsolfizikproje\projeplatform\projeplatform\bin\Debug\projeplatform.pdb
+C:\Users\serha\Desktop\proje\sağsolfizikproje\projeplatform\projeplatform\obj\Debug\projeplatform.csprojAssemblyReference.cache
+C:\Users\serha\Desktop\proje\sağsolfizikproje\projeplatform\projeplatform\obj\Debug\projeplatform.level1.resources
+C:\Users\serha\Desktop\proje\sağsolfizikproje\projeplatform\projeplatform\obj\Debug\projeplatform.gamemenu.resources
+C:\Users\serha\Desktop\proje\sağsolfizikproje\projeplatform\projeplatform\obj\Debug\projeplatform.Properties.Resources.resources
+C:\Users\serha\Desktop\proje\sağsolfizikproje\projeplatform\projeplatform\obj\Debug\projeplatform.csproj.GenerateResource.cache
+C:\Users\serha\Desktop\proje\sağsolfizikproje\projeplatform\projeplatform\obj\Debug\projeplatform.csproj.CoreCompileInputs.cache
+C:\Users\serha\Desktop\proje\sağsolfizikproje\projeplatform\projeplatform\obj\Debug\projeplatform.exe
+C:\Users\serha\Desktop\proje\sağsolfizikproje\projeplatform\projeplatform\obj\Debug\projeplatform.pdb
+C:\Users\serha\Desktop\proje\sağsolfizikproje\projeplatform\projeplatform\obj\Debug\projeplatform.level2.resources
+C:\Users\burka\Desktop\level2li son\projeplatform\projeplatform\bin\Debug\projeplatform.exe.config
+C:\Users\burka\Desktop\level2li son\projeplatform\projeplatform\bin\Debug\projeplatform.exe
+C:\Users\burka\Desktop\level2li son\projeplatform\projeplatform\bin\Debug\projeplatform.pdb
+C:\Users\burka\Desktop\level2li son\projeplatform\projeplatform\obj\Debug\projeplatform.csprojAssemblyReference.cache
+C:\Users\burka\Desktop\level2li son\projeplatform\projeplatform\obj\Debug\projeplatform.level1.resources
+C:\Users\burka\Desktop\level2li son\projeplatform\projeplatform\obj\Debug\projeplatform.gamemenu.resources
+C:\Users\burka\Desktop\level2li son\projeplatform\projeplatform\obj\Debug\projeplatform.level2.resources
+C:\Users\burka\Desktop\level2li son\projeplatform\projeplatform\obj\Debug\projeplatform.Properties.Resources.resources
+C:\Users\burka\Desktop\level2li son\projeplatform\projeplatform\obj\Debug\projeplatform.csproj.GenerateResource.cache
+C:\Users\burka\Desktop\level2li son\projeplatform\projeplatform\obj\Debug\projeplatform.csproj.CoreCompileInputs.cache
+C:\Users\burka\Desktop\level2li son\projeplatform\projeplatform\obj\Debug\projeplatform.exe
+C:\Users\burka\Desktop\level2li son\projeplatform\projeplatform\obj\Debug\projeplatform.pdb
+C:\Users\serha\Desktop\proje\projeplatform\projeplatform\bin\Debug\projeplatform.exe.config
+C:\Users\serha\Desktop\proje\projeplatform\projeplatform\bin\Debug\projeplatform.exe
+C:\Users\serha\Desktop\proje\projeplatform\projeplatform\bin\Debug\projeplatform.pdb
+C:\Users\serha\Desktop\proje\projeplatform\projeplatform\obj\Debug\projeplatform.csprojAssemblyReference.cache
+C:\Users\serha\Desktop\proje\projeplatform\projeplatform\obj\Debug\projeplatform.level1.resources
+C:\Users\serha\Desktop\proje\projeplatform\projeplatform\obj\Debug\projeplatform.gamemenu.resources
+C:\Users\serha\Desktop\proje\projeplatform\projeplatform\obj\Debug\projeplatform.level2.resources
+C:\Users\serha\Desktop\proje\projeplatform\projeplatform\obj\Debug\projeplatform.Properties.Resources.resources
+C:\Users\serha\Desktop\proje\projeplatform\projeplatform\obj\Debug\projeplatform.csproj.GenerateResource.cache
+C:\Users\serha\Desktop\proje\projeplatform\projeplatform\obj\Debug\projeplatform.csproj.CoreCompileInputs.cache
+C:\Users\serha\Desktop\proje\projeplatform\projeplatform\obj\Debug\projeplatform.exe
+C:\Users\serha\Desktop\proje\projeplatform\projeplatform\obj\Debug\projeplatform.pdb
+C:\Users\serha\Desktop\proje\projeplatform\projeplatform\obj\Debug\projeplatform.level3.resources
+C:\Users\burka\Desktop\level3\projeplatform\bin\Debug\projeplatform.exe.config
+C:\Users\burka\Desktop\level3\projeplatform\bin\Debug\projeplatform.exe
+C:\Users\burka\Desktop\level3\projeplatform\bin\Debug\projeplatform.pdb
+C:\Users\burka\Desktop\level3\projeplatform\obj\Debug\projeplatform.csprojAssemblyReference.cache
+C:\Users\burka\Desktop\level3\projeplatform\obj\Debug\projeplatform.level1.resources
+C:\Users\burka\Desktop\level3\projeplatform\obj\Debug\projeplatform.gamemenu.resources
+C:\Users\burka\Desktop\level3\projeplatform\obj\Debug\projeplatform.level2.resources
+C:\Users\burka\Desktop\level3\projeplatform\obj\Debug\projeplatform.level3.resources
+C:\Users\burka\Desktop\level3\projeplatform\obj\Debug\projeplatform.Properties.Resources.resources
+C:\Users\burka\Desktop\level3\projeplatform\obj\Debug\projeplatform.csproj.GenerateResource.cache
+C:\Users\burka\Desktop\level3\projeplatform\obj\Debug\projeplatform.csproj.CoreCompileInputs.cache
+C:\Users\burka\Desktop\level3\projeplatform\obj\Debug\projeplatform.exe
+C:\Users\burka\Desktop\level3\projeplatform\obj\Debug\projeplatform.pdb
+C:\Users\burka\Desktop\level3\projeplatform\bin\Debug\Highscores.accdb
+C:\Users\burka\Desktop\Object Oriented Programming\projeler\BurkayMaraşProjeDosyaları\projeplatform\bin\Debug\Highscores.accdb
+C:\Users\burka\Desktop\Object Oriented Programming\projeler\BurkayMaraşProjeDosyaları\projeplatform\bin\Debug\projeplatform.exe.config
+C:\Users\burka\Desktop\Object Oriented Programming\projeler\BurkayMaraşProjeDosyaları\projeplatform\bin\Debug\projeplatform.exe
+C:\Users\burka\Desktop\Object Oriented Programming\projeler\BurkayMaraşProjeDosyaları\projeplatform\bin\Debug\projeplatform.pdb
+C:\Users\burka\Desktop\Object Oriented Programming\projeler\BurkayMaraşProjeDosyaları\projeplatform\obj\Debug\projeplatform.csproj.AssemblyReference.cache
+C:\Users\burka\Desktop\Object Oriented Programming\projeler\BurkayMaraşProjeDosyaları\projeplatform\obj\Debug\projeplatform.level1.resources
+C:\Users\burka\Desktop\Object Oriented Programming\projeler\BurkayMaraşProjeDosyaları\projeplatform\obj\Debug\projeplatform.gamemenu.resources
+C:\Users\burka\Desktop\Object Oriented Programming\projeler\BurkayMaraşProjeDosyaları\projeplatform\obj\Debug\projeplatform.level2.resources
+C:\Users\burka\Desktop\Object Oriented Programming\projeler\BurkayMaraşProjeDosyaları\projeplatform\obj\Debug\projeplatform.level3.resources
+C:\Users\burka\Desktop\Object Oriented Programming\projeler\BurkayMaraşProjeDosyaları\projeplatform\obj\Debug\projeplatform.Properties.Resources.resources
+C:\Users\burka\Desktop\Object Oriented Programming\projeler\BurkayMaraşProjeDosyaları\projeplatform\obj\Debug\projeplatform.csproj.GenerateResource.cache
+C:\Users\burka\Desktop\Object Oriented Programming\projeler\BurkayMaraşProjeDosyaları\projeplatform\obj\Debug\projeplatform.csproj.CoreCompileInputs.cache
+C:\Users\burka\Desktop\Object Oriented Programming\projeler\BurkayMaraşProjeDosyaları\projeplatform\obj\Debug\projeplatform.exe
+C:\Users\burka\Desktop\Object Oriented Programming\projeler\BurkayMaraşProjeDosyaları\projeplatform\obj\Debug\projeplatform.pdb
