@@ -1,2 +1,3 @@
 # Platform-Oyunu-C-Windows-Form
-C# programlama dili kullanılarak, Windows Form üzerinden geliştirilmiş, Microsoft Access veri tabanı, pixel art (Aseprite)  tarafından faydalanılmış platform oyunu.
+<tr> C# programlama dili kullanılarak, Windows Form üzerinden geliştirilmiş, Microsoft Access veri tabanı, pixel art (Aseprite)  tarafından faydalanılmış platform oyunu.
+<en> This 2d platform game developed on Windows Form by using C# programming language with the helps of Microsoft Access and Aseprite pixel art program.
